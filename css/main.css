@@ -1,0 +1,61 @@
+#intro-wrapper {
+    height:500px;
+    z-index: 1;
+}
+
+/*
+#circle-pic {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 76%;
+    bottom: 240px;
+    z-index: 0;
+}
+*/
+
+.navbtn:hover {
+    color: skyblue;
+    background-color: white;
+}
+
+#sec-3 {
+    position: relative;
+/*    top: -120px;*/
+}
+
+#bw {
+    width: 90%;
+}
+
+#sec-4 {
+    position: relative;
+/*    top: -120px;*/
+    width: 100%;
+    margin-top: -20px;
+    margin-left: -12px;
+}
+
+#sec-4-text {
+    color: white;
+    font-size: 20px;
+}
+
+#sec-4-overlay {
+    background-color:rgba(20,135,239,0.8);
+    height:100%;
+}
+
+.parallax-container {
+      width : 103%;
+/*
+      position: relative;
+      left: -12px;;
+*/
+    }
+
+#footer {
+    margin-top: -20px;
+}
+
+/* NEW INSERT */
